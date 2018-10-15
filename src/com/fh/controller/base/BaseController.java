@@ -67,5 +67,9 @@ public class BaseController {
 		logger.info("end");
 		logger.info("");
 	}
+
+	public static void main(String[] args) {
+
+	}
 	
 }
